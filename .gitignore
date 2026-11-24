@@ -1,0 +1,23 @@
+# Node dependencies
+**/node_modules/
+
+# Environment variables and secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Password file
+/DB_PASS.txt
+
+# Personal folders
+/practice/
+/machine-downtime-frontend/New folder/
+
+# Build output
+**/dist/
+**/build/
+
+# Logs
+*.log
+/DB_PASS
+/DB_PASS.*

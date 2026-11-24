@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "CNC Machine 01",
+        "status": "stopped"
+    },
+    {
+        "id": 2,
+        "name": "Conveyor Belt 02",
+        "status": "running"
+    },
+    {
+        "id": 3,
+        "name": "Hydraulic Press 03",
+        "status": "stopped"
+    },
+    {
+        "id": 4,
+        "name": "Packaging Machine 04",
+        "status": "running"
+    }
+]
